@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Git Hub
+name: Cash4smartphone
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -44,4 +44,5 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: Your site description
+description: Cash4smartphone offer on spot cash for our Customer who Selling old iPhone,
+  electronics , Phone , Laptops , Cameras etc
